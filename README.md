@@ -36,3 +36,5 @@
 ![picture of timetable](image-15.png)
 ![second picture of timetable](image-16.png)
 
+## What I Learnt
+First and foremost i learnt how to create a website using css and html. In addition,i learnt how to design the said website. I also acquired knowledge on website and their purposes,composition etc.
