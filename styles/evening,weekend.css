@@ -1,0 +1,12 @@
+.eve{
+    font-style: italic;
+    color: darkblue;
+}
+.even{
+    font-style: italic;
+}
+.evening{
+    border-radius: 3px;
+    filter: blur(3px);
+    width: 1050px;
+}

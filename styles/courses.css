@@ -1,0 +1,22 @@
+.info {
+    font-style: italic;
+    color: black;
+}
+
+.short-courses {
+    font-style: italic;
+    color: goldenrod;
+
+}
+.undergraduate {
+    font-style: italic;
+    color: goldenrod;
+}
+.mphil {
+    font-style: italic;
+    color: goldenrod;
+}
+.phd {
+    font-style: italic;
+    color: goldenrod;
+}

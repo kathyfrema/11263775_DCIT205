@@ -1,0 +1,15 @@
+.k {
+font-style: italic;
+color: darkblue;
+}
+.ka {
+    font-style: italic;
+}
+.kat {
+    font-style: italic;
+    color: darkblue;
+}
+.kath {
+border-radius: 3px;
+filter: blur(2px);
+}

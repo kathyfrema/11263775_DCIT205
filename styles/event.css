@@ -1,0 +1,23 @@
+img{
+    width: 200px;
+    vertical-align: top;
+    margin-left: 70px;
+}
+.title{
+    font-style: italic;
+    font-size: 32px;
+    color: darkblue;
+    text-align: center;
+    margin-bottom: 60px;
+
+}
+.event-des{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+    font-style: italic;
+    color: darkblue;
+}
+.pics-para{
+    margin-top: 100px;
+}

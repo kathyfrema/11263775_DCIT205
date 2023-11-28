@@ -1,0 +1,148 @@
+.logo1 {
+ width: 300px;
+}
+
+.welcome {
+    text-align: center;
+    margin-inline: auto;
+    font-size: 35px;
+    font-style: italic;
+    display: block;
+    color: midnightblue;
+
+}
+
+.na2 {
+    height: 350px;
+    width: 1100px;
+    filter: blur(2.5px);
+    margin-left: 50px;
+    border-radius: 5px;
+    display:block;
+}
+
+.Home {
+    background-color: whitesmoke;
+    color: midnightblue;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    float: right;
+    position: absolute;
+    top:0px;
+    right: 0px;
+    border-radius: 5px;
+    margin-top: 85px;
+    font-style: italic;
+}
+ .Home:hover {
+    cursor: pointer;
+    background-color: darkblue;
+    color: white;
+ }
+
+.About {
+    background-color: whitesmoke;
+    box-shadow:2px 2px 4px rgba(0, 0, 0, 0.5);
+    bottom: 0px;
+    left: 0px;
+    display: inline-block;
+    border-radius: 5px;
+    font-style: italic;
+}
+
+.About:hover {
+    cursor: pointer;
+    background-color: darkblue;
+    color: white;
+}
+
+.oa { 
+    display: inline-block;
+}
+
+.Event {
+    margin-top: 50px;
+    display: block;
+    text-decoration: none;
+    background-color: whitesmoke;
+    box-shadow:2px 2px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    font-style: italic;
+}
+
+.Courses {
+    margin-top: 50px;
+    text-decoration: none;
+    background-color: whitesmoke;
+    box-shadow:2px 2px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    font-style: italic;
+}
+
+.Event:hover {
+    cursor: pointer;
+    background-color: darkblue;
+    color: white;
+}
+
+.Courses:hover {
+    cursor: pointer;
+    background-color: darkblue;
+    color: white;
+}
+.footer{
+    display: inline-block;
+}
+.contact{
+ margin-top: 50px;
+ display: inline-block;
+ margin-left:300px;
+}
+.details{
+width: 100px;
+vertical-align: top;
+display: inline-block;
+}
+
+.timetable{
+    margin-top: 50px;
+    text-decoration: none;
+    background-color: whitesmoke;
+    box-shadow:2px 2px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    font-style: italic;
+}
+.timetable:hover{
+    cursor: pointer;
+    background-color: darkblue;
+    color: white;
+}
+.entry {
+    margin-top: 50px;
+    text-decoration: none;
+    background-color: whitesmoke;
+    box-shadow:2px 2px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    font-style: italic;
+    margin-left:30px ;
+}
+,entry:hover {
+    cursor: pointer;
+    background-color: darkblue;
+    color: white;
+
+}
+
+.footer{
+    background-color:blue;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    z-index: 10px;
+}
+.detail{
+    display: inline-block;
+   
+}
+.under{
+    vertical-align:top;
+}
